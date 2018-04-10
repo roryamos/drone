@@ -5,5 +5,6 @@ drone/drone
 .env
 extras/
 release/
+.idea
 
 server/swagger/files/*.json
